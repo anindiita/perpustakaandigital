@@ -3,7 +3,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [the odyssey](ebook/the-odyssey-homer.pdf) – dita (2026)
-2. [Konspirasi alam semesta](ebook/Konspirasi alam semesta - fiersa besari.pdf) – dita (2026)
+2. [Konspirasi alam semesta - fiersa besari](ebook/Konspirasi alam semesta - fiersa besari.pdf) – dita (2026)
 3. [the autobiography of benjamin franklin](ebook/the-autobiography-of-benjamin-franklin-benjamin-franklin.pdf) – dita (2026)
 4. [the enchiridion](ebook/the-enchiridion-epictetus.pdf) – dita (2026)
 5. [on the origin of species](ebook/on-the-origin-of-species-charles-darwin.pdf) – dita (2026)
