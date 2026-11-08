@@ -9,8 +9,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 5. [on the origin of species](ebook/on-the-origin-of-species-charles-darwin.pdf) – dita (2026)
 6. [wuthering heights](ebook/wuthering-heights-emily-bronte.pdf) – dita (2026)
 7. [animal farm](ebook/animal-farm-george-orwell.pdf) – dita (2026)
-8. [ICA_Module 1](ebook/ICA_Module_1.pdf) – dita (2026)
-9. [ICA_Module 2](ebook/ICA_Module_2.pdf) – dita (2026)
-10. [ICA_Module 3](ebook/ICA_Module_3.pdf) – dita (2026)
+8. [ICA Module 1](ebook/ICA_Module_1.pdf) – dita (2026)
+9. [ICA Module 2](ebook/ICA_Module_2.pdf) – dita (2026)
+10. [ICA Module 3](ebook/ICA_Module_3.pdf) – dita (2026)
 ---
 Powered by GitHub Pages
