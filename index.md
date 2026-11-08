@@ -11,6 +11,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [animal farm](ebook/animal-farm-george-orwell.pdf) – dita (2026)
 8. [ICA_Module 1](ebook/ICA_Module 1.pdf) – dita (2026)
 9. [ICA_Module 2](ebook/ICA_Module 2.pdf) – dita (2026)
-10 . [ICA_Module 3](ebook/ICA_Module 3.pdf) – dita (2026)
+10 [ICA_Module 3](ebook/ICA_Module 3.pdf) – dita (2026)
 ---
 Powered by GitHub Pages
