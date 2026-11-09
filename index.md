@@ -1,4 +1,5 @@
-Nama: Fauzunnisa Anindita NIM: 13040124140174
+Nama: Fauzunnisa Anindita 
+NIM: 13040124140174
 
 # Digital Library
 Selamat Datang di Perpustakaan Digital
